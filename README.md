@@ -195,7 +195,7 @@ The GUI code was already included above and is ready to use!
 
 Here is a screenshot of the GUI:
 
-![ClusterMinds GUI](_gui.png)
+![ClusterMinds GUI](GUI.PNG)
 
 ## Conclusion
 
