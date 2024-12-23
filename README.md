@@ -201,18 +201,8 @@ Here is a screenshot of the GUI:
 
 This project demonstrates the power of **unsupervised learning** for customer segmentation. By applying KMeans and DBSCAN, we can uncover hidden patterns in customer behavior. The interactive GUI makes it easy for users to apply clustering without needing to code.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-### Steps to Add the Screenshot:
-
-1. Make sure your image (output) is stored in a folder named `assets/` (or any name you prefer). You can store it inside the root directory if preferred.
-2. Replace `assets/clustering_gui_output.png` with the path to your image file.
-3. When you add the image to GitHub, ensure it's in the correct folder.
-
----
 
 ### Explanation of Key Terms:
 
