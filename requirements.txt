@@ -1,0 +1,9 @@
+pandas==2.0.3
+scikit-learn==1.2.2
+matplotlib==3.7.1
+tkinter==0.1.0  # Usually included with Python, but added just in case
+
+pandas for data manipulation,
+scikit-learn for clustering algorithms (KMeans and DBSCAN),
+matplotlib for plotting the clusters,
+tkinter for building the graphical user interface.
